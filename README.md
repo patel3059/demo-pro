@@ -1,3 +1,4 @@
 # demo-pro
-Author-Rohit Patel
-this is my first repositary
+Author-Rohit Patel.
+<br>
+this is my first repositary.
